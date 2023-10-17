@@ -1,9 +1,9 @@
 import pandas as pd
-import requests
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import OneHotEncoder
-from translate import Translator  # Assurez-vous d'installer le package translate
+import requests
+from googletrans import Translator
 
 # Charger le fichier CSV
 df = pd.read_csv('rugby_dataset_filtered.csv')
@@ -33,14 +33,37 @@ model = LogisticRegression(max_iter=1000)
 model.fit(X_train_encoded_df, y_train)
 
 # Traducteur pour les noms d'équipes
-translator = Translator(to_lang='en')
+team_translator = {
+    'Angleterre': 'England',
+    'France': 'France',
+    'Irlande': 'Ireland',
+    'Italie': 'Italy',
+    'Écosse': 'Scotland',
+    'Pays de Galles': 'Wales',
+    'Afrique du Sud': 'South Africa',
+    'Nouvelle-Zélande': 'New Zealand',
+    'Australie': 'Australia',
+    'Argentine': 'Argentina'
+}
 
 # Prédire le résultat d'un match en utilisant les cotes
 def predict_result(home_team, away_team, city):
-    # Traduire les noms d'équipes en anglais
-    home_team = translator.translate(home_team)
-    away_team = translator.translate(away_team)
-    
+    # Récupérer les cotes des équipes
+    odds_url = "https://offer.cdn.begmedia.com/api/pub/v3/competitions/34/outrights?application=2&countrycode=fr&forceCompetitionInfo=true&language=fr&sitecode=frfr"
+    odds_response = requests.get(odds_url)
+
+    if odds_response.status_code == 200:
+        odds_data = odds_response.json()
+        odds_dict = {}
+        for selection in odds_data['grouped_markets'][0]['markets'][0]['selections']:
+            team_name_fr = selection[0]['name']
+            team_name_en = team_translator.get(team_name_fr)
+            if team_name_en:
+                odds_dict[team_name_en] = selection[0]['odds']
+    else:
+        print("La requête des cotes a échoué. Statut :", odds_response.status_code)
+        odds_dict = {}
+
     # Transformer les entrées
     input_data = encoder.transform([[home_team, away_team, city]])
     input_df = pd.DataFrame(input_data, columns=encoder.get_feature_names_out(['home_team', 'away_team', 'city']))
@@ -65,22 +88,8 @@ def predict_result(home_team, away_team, city):
         home_score, away_score = away_score, home_score
 
     # Ajuster le pourcentage de victoire en fonction des cotes
-    odds_url = "https://offer.cdn.begmedia.com/api/pub/v3/competitions/34/outrights?application=2&countrycode=fr&forceCompetitionInfo=true&language=fr&sitecode=frfr"
-    odds_response = requests.get(odds_url)
-
-    if odds_response.status_code == 200:
-        odds_data = odds_response.json()
-        odds_dict = {}
-        for selection in odds_data['grouped_markets'][0]['markets'][0]['selections']:
-            team_name_fr = selection[0]['name']
-            team_name_en = translator.translate(team_name_fr)
-            odds_dict[team_name_en] = selection[0]['odds']
-    else:
-        print("La requête des cotes a échoué. Statut :", odds_response.status_code)
-        odds_dict = {}
-
     if winner in odds_dict:
-        adjusted_win_percentage = win_percentage * (1 / odds_dict[winner])
+        adjusted_win_percentage = win_percentage * (1 / odds_dict[winner]) * 1.5
     else:
         adjusted_win_percentage = win_percentage
 
