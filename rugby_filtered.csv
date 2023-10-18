@@ -1,0 +1,530 @@
+date,home_team,away_team,home_score,away_score,competition,stadium,city,country,neutral,world_cup
+2013-02-02,Wales,Ireland,22,30,2013 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2013-02-02,England,Scotland,38,18,2013 Six Nations Championship,Twickenham Stadium,London,England,False,False
+2013-02-03,Italy,France,23,18,2013 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2013-02-09,Scotland,Italy,34,10,2013 Six Nations Championship,Murrayfield,Edinburgh,Scotland,False,False
+2013-02-09,France,Wales,6,16,2013 Six Nations Championship,Stade de France,Paris,France,False,False
+2013-02-10,Ireland,England,6,12,2013 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2013-02-23,England,France,23,13,2013 Six Nations Championship,Twickenham,London,England,False,False
+2013-02-23,Italy,Wales,9,26,2013 Six Nations,Stadio Olimpico,Rome,Italy,False,False
+2013-02-24,Scotland,Ireland,12,8,2013 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2013-03-09,Scotland,Wales,18,28,2013 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2013-03-09,Ireland,France,13,13,2013 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2013-03-10,England,Italy,18,11,2013 Six Nations Championship,Twickenham,London,England,False,False
+2013-03-16,Wales,England,30,3,2013 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2013-03-16,France,Scotland,23,16,2013 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2013-03-16,Italy,Ireland,22,15,2013 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2013-06-08,Argentina,England,3,32,2013 England tour of Argentina,Estadio Padre Ernesto Martearena,Salta,Argentina,False,False
+2013-06-08,New Zealand,France,23,13,2013 French tour to New Zealand,Eden Park,Auckland,New Zealand,False,False
+2013-06-08,South Africa,Italy,44,10,2013 South African quadrangular tournament,Kings Park Stadium,Durban,South Africa,False,False
+2013-06-15,Argentina,England,26,51,2013 England tour of Argentina,Vélez Sársfield,Buenos Aires,Argentina,False,False
+2013-06-15,South Africa,Scotland,30,17,South African Quadrangular tournament,Mbombela Stadium,Nelspruit,South Africa,False,False
+2013-06-15,New Zealand,France,30,0,2013 French tour to New Zealand,Rugby League Park,Christchurch,New Zealand,False,False
+2013-06-22,Scotland,Italy,30,29,South African Quadrangular tournament third place final,Loftus Versfeld,Pretoria,South Africa,True,False
+2013-06-22,New Zealand,France,24,9,2013 French tour to New Zealand,Yarrow Stadium,New Plymouth,New Zealand,False,False
+2013-08-17,South Africa,Argentina,73,13,2013 Rugby Championship,FNB Stadium,Johannesburg,South Africa,False,False
+2013-08-17,Australia,New Zealand,29,47,2013 Rugby Championship,Stadium Australia,Sydney,Australia,False,False
+2013-08-24,New Zealand,Australia,27,16,2013 Rugby Championship,Wellington Regional Stadium,Wellington,New Zealand,False,False
+2013-08-24,Argentina,South Africa,17,22,2013 Rugby Championship,Malvinas Argentinas,Mendoza,Argentina,False,False
+2013-09-07,New Zealand,Argentina,28,13,2013 Rugby Championship,Waikato Stadium,Hamilton,New Zealand,False,False
+2013-09-07,Australia,South Africa,12,38,2013 Rugby Championship,Lang Park,Brisbane,Australia,False,False
+2013-09-14,Australia,Argentina,14,13,2013 Rugby Championship,Subiaco Oval,Perth,Australia,False,False
+2013-09-14,New Zealand,South Africa,29,15,2013 Rugby Championship,Eden Park,Auckland,New Zealand,False,False
+2013-09-28,Argentina,New Zealand,15,33,2013 Rugby Championship,Estadio Único,La Plata,Argentina,False,False
+2013-09-28,South Africa,Australia,28,8,2013 Rugby Championship,Newlands Stadium,Cape Town,South Africa,False,False
+2013-10-05,South Africa,New Zealand,27,38,2013 Rugby Championship,Ellis Park,Johannesburg,South Africa,False,False
+2013-10-05,Argentina,Australia,17,54,2013 Rugby Championship,Gigante de Arroyito,Rosario,Argentina,False,False
+2013-10-19,New Zealand,Australia,41,33,2013 Autumn International,Forsyth Barr Stadium,Dunedin,New Zealand,False,False
+2013-11-02,England,Australia,20,13,2013 Autumn International,Twickenham Stadium,London,England,False,False
+2013-11-09,Wales,South Africa,15,24,2013 end-of-year test,Millennium Stadium,Cardiff,Wales,False,False
+2013-11-09,France,New Zealand,19,26,2013 end-of year test,Stade de France,Saint-Denis,France,False,False
+2013-11-09,Italy,Australia,20,50,2013 Autumn International,Stadio Olimpico di Torino,Turin,Italy,False,False
+2013-11-09,England,Argentina,31,12,2013 Autumn International,Twickenham,London,England,False,False
+2013-11-16,Wales,Argentina,40,6,2013 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2013-11-16,Ireland,Australia,15,32,2013 Autumn International,Lansdowne Road,Dublin,Ireland,False,False
+2013-11-16,England,New Zealand,22,30,2013 Autumn International,Twickenham,London,England,False,False
+2013-11-17,Scotland,South Africa,0,28,2013 Autumn International,Murrayfield,Edinburgh,Scotland,False,False
+2013-11-23,France,South Africa,10,19,2013 end-of-year test,Stade de France,Saint-Denis,France,False,False
+2013-11-23,Italy,Argentina,14,19,2013 end of year test,Stadio Olimpico,Rome,Italy,False,False
+2013-11-23,Scotland,Australia,15,21,2013 Autumn International,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2013-11-24,Ireland,New Zealand,22,24,2013 Autumn International,Aviva Stadium,Dublin,Ireland,False,False
+2013-11-30,Wales,Australia,26,30,2013 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2014-02-01,Wales,Italy,23,15,2014 Six Nations,Millennium Stadium,Cardiff,Wales,False,False
+2014-02-01,France,England,26,24,2014 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2014-02-02,Ireland,Scotland,28,6,2014 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2014-02-08,Ireland,Wales,26,3,2014 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2014-02-08,Scotland,England,0,20,2014 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2014-02-09,France,Italy,30,10,2014 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2014-02-21,Wales,France,27,6,2014 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2014-02-22,Italy,Scotland,20,21,2014 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2014-02-22,England,Ireland,13,10,2014 Six Nations Championship,Twickenham,London,England,False,False
+2014-03-08,Scotland,France,17,19,2014 Six Nations Championship,Murrayfield,Edinburgh,Scotland,False,False
+2014-03-08,Ireland,Italy,46,7,2014 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2014-03-09,England,Wales,29,18,2014 Six Nations Championship,Twickenham,London,England,False,False
+2014-03-15,Italy,England,11,52,2014 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2014-03-15,Wales,Scotland,51,3,2014 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2014-03-15,France,Ireland,20,22,2014 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2014-06-07,Argentina,Ireland,17,29,2014 Ireland rugby union tour of Argentina,Estadio Centenario,Resistencia,Argentina,False,False
+2014-06-07,New Zealand,England,20,15,2014 England rugby union tour of New Zealand,Eden Park,Auckland,New Zealand,False,False
+2014-06-07,Australia,France,50,23,2014 France tour of Australia,Lang Park,Brisbane,Australia,False,False
+2014-06-14,Australia,France,6,0,2014 France tour of Australia,Docklands Stadium,Melbourne,Australia,False,False
+2014-06-14,New Zealand,England,28,27,2014 England rugby union tour of New Zealand,Forsyth Barr Stadium,Dunedin,New Zealand,False,False
+2014-06-14,Argentina,Ireland,17,23,2014 Ireland rugby union tour of Argentina,Estadio Monumental José Fierro,Tucumán,Argentina,False,False
+2014-06-14,South Africa,Wales,38,16,2014 Wales tour of South Africa,Kings Park,Durban,South Africa,False,False
+2014-06-21,Australia,France,39,13,2014 France tour of Australia,Sydney Football Stadium,Sydney,Australia,False,False
+2014-06-21,South Africa,Wales,31,30,2014 Wales tour of South Africa,Mbombela Stadium,Nelspruit,South Africa,False,False
+2014-06-21,New Zealand,England,36,13,2014 England rugby union tour of New Zealand,Waikato Stadium,Hamilton,New Zealand,False,False
+2014-06-21,Argentina,Scotland,19,21,2014 Summer International,Estadio Mario Alberto Kempes,Córdoba,Argentina,False,False
+2014-06-28,South Africa,Scotland,55,6,2014 Mid-year Test,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,False,False
+2014-08-16,Australia,New Zealand,12,12,2014 Rugby Championship,Stadium Australia,Sydney,Australia,False,False
+2014-08-16,South Africa,Argentina,13,6,2014 Rugby Championship,Loftus Versfeld Stadium,Pretoria,South Africa,False,False
+2014-08-23,Argentina,South Africa,31,33,2014 Rugby Championship,Estadio Padre Ernesto Martearena,Salta,Argentina,False,False
+2014-08-23,New Zealand,Australia,51,20,2014 Rugby Championship,Eden Park,Auckland,New Zealand,False,False
+2014-09-06,Australia,South Africa,24,23,2014 Rugby Championship,Subiaco Oval,Perth,Australia,False,False
+2014-09-06,New Zealand,Argentina,28,9,2014 Rugby Championship,McLean Park,Napier,New Zealand,False,False
+2014-09-13,New Zealand,South Africa,14,10,2014 Rugby Championship,Westpac Stadium,Wellington,New Zealand,False,False
+2014-09-13,Australia,Argentina,32,25,2014 Rugby Championship,Robina Stadium,Gold Coast,Australia,False,False
+2014-09-27,Argentina,New Zealand,13,34,2014 Rugby Championship,Estadio Único,La Plata,Argentina,False,False
+2014-09-27,South Africa,Australia,28,10,2014 Rugby Championship,Newlands Stadium,Cape Town,South Africa,False,False
+2014-10-04,Argentina,Australia,21,17,2014 Rugby Championship,Estadio Malvinas Argentinas,Mendoza,Argentina,False,False
+2014-10-04,South Africa,New Zealand,27,25,2014 Rugby Championship,Ellis Park,Johannesburg,South Africa,False,False
+2014-10-18,Australia,New Zealand,28,29,2014 Autumn International,Lang Park,Brisbane,Australia,False,False
+2014-11-08,Scotland,Argentina,41,31,2014 Autumn International,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2014-11-08,England,New Zealand,21,24,2014 Autumn International,Twickenham,London,England,False,False
+2014-11-08,Wales,Australia,28,33,2014 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2014-11-08,Ireland,South Africa,29,15,2014 end-of-year test,Aviva Stadium,Dublin,Ireland,False,False
+2014-11-15,Italy,Argentina,18,20,2014 end of year test,Stadio Luigi Ferraris,Genoa,Italy,False,False
+2014-11-15,France,Australia,29,26,2014 Autumn International,Stade de France,Saint-Denis,France,False,False
+2014-11-15,England,South Africa,28,31,2014 Autumn International,Twickenham,London,England,False,False
+2014-11-15,Scotland,New Zealand,16,24,2014 Autumn International,Murrayfield,Edinburgh,Scotland,False,False
+2014-11-22,Wales,New Zealand,16,34,2014 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2014-11-22,France,Argentina,13,18,2014 Autumn International,Stade de France,Saint-Denis,France,False,False
+2014-11-22,Italy,South Africa,6,22,2014 end-of-year test,Stadio Euganeo,Padua,Italy,False,False
+2014-11-22,Ireland,Australia,26,23,2014 Autumn International,Lansdowne Road,Dublin,Ireland,False,False
+2014-11-29,Wales,South Africa,12,6,2014 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2014-11-29,England,Australia,26,17,2014 Autumn International,Twickenham Stadium,London,England,False,False
+2015-02-06,Wales,England,16,21,2015 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2015-02-07,Italy,Ireland,3,26,2015 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2015-02-07,France,Scotland,15,8,2015 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2015-02-14,Ireland,France,18,11,2015 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2015-02-14,England,Italy,47,17,2015 Six Nations Championship,Twickenham,London,England,False,False
+2015-02-15,Scotland,Wales,23,26,2015 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2015-02-28,Scotland,Italy,19,22,2015 Six Nations Championship,Murrayfield,Edinburgh,Scotland,False,False
+2015-02-28,France,Wales,13,20,2015 Six Nations Championship,Stade de France,Paris,France,False,False
+2015-03-01,Ireland,England,19,9,2015 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2015-03-14,England,Scotland,25,13,2015 Six Nations Championship,Twickenham Stadium,London,England,False,False
+2015-03-14,Wales,Ireland,23,16,2015 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2015-03-15,Italy,France,0,29,2015 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2015-03-21,Scotland,Ireland,10,40,2015 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2015-03-21,Italy,Wales,20,61,2015 Six Nations,Stadio Olimpico,Rome,Italy,False,False
+2015-03-21,England,France,55,35,2015 Six Nations Championship,Twickenham,London,England,False,False
+2015-07-17,New Zealand,Argentina,39,18,2015 Rugby Championship,AMI Stadium,Christchurch,New Zealand,False,False
+2015-07-18,Australia,South Africa,24,20,2015 Rugby Championship,Lang Park,Brisbane,Australia,False,False
+2015-07-25,South Africa,New Zealand,20,27,2015 Rugby Championship,Ellis Park,Johannesburg,South Africa,False,False
+2015-07-25,Argentina,Australia,9,34,2015 Rugby Championship,Estadio Malvinas Argentinas,Mendoza,Argentina,False,False
+2015-08-08,Australia,New Zealand,27,19,2015 Rugby Championship,Stadium Australia,Sydney,Australia,False,False
+2015-08-08,Wales,Ireland,21,35,2015 Rugby World Cup warm-up tests,Millennium Stadium,Cardiff,Wales,False,False
+2015-08-08,South Africa,Argentina,25,37,2015 Rugby Championship,Kings Park Stadium,Durban,South Africa,False,False
+2015-08-15,England,France,19,14,2015 Rugby World Cup warm-up,Twickenham,London,England,False,False
+2015-08-15,Ireland,Scotland,28,22,2015 Rugby World Cup warm-up tests,Aviva Stadium,Dublin,Ireland,False,False
+2015-08-15,Argentina,South Africa,12,26,2015 Rugby World Cup warm-up match,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2015-08-15,New Zealand,Australia,41,13,2015 Rugby World Cup warm-up match,Eden Park,Auckland,New Zealand,False,False
+2015-08-22,Italy,Scotland,12,16,2015 Rugby World Cup warm-ups,Stadio Olimpico di Torino,Turin,Italy,False,False
+2015-08-22,France,England,25,20,2015 Rugby World Cup warm-up,Stade de France,Saint-Denis,France,False,False
+2015-08-29,Ireland,Wales,10,16,2015 Rugby World Cup warm-up tests,Aviva Stadium,Dublin,Ireland,False,False
+2015-08-29,Scotland,Italy,48,7,2015 Rugby World Cup warm-ups,Murrayfield,Edinburgh,Scotland,False,False
+2015-09-05,Wales,Italy,23,19,2015 Rugby World Cup warm-up,Millennium Stadium,Cardiff,Wales,False,False
+2015-09-05,England,Ireland,21,13,2015 Rugby World Cup Warm-up,Twickenham,London,England,False,False
+2015-09-05,France,Scotland,19,16,2015 Rugby World Cup warm-up,Stade de France,Saint-Denis,France,False,False
+2015-09-19,France,Italy,32,10,2015 Rugby World Cup Pool D,Twickenham Stadium,London,England,True,True
+2015-09-20,New Zealand,Argentina,26,16,2015 Rugby World Cup Pool match,Wembley Stadium,London,England,True,True
+2015-09-26,England,Wales,25,28,2015 Rugby World Cup Pool A,Twickenham,London,England,False,True
+2015-10-03,South Africa,Scotland,34,16,2015 Rugby World Cup,St James Park,Newcastle,England,True,True
+2015-10-03,England,Australia,13,33,2015 Rugby World Cup Pool match,Twickenham Stadium,London,England,False,True
+2015-10-04,Ireland,Italy,16,9,2015 Rugby World Cup Pool D,Olympic Stadium,London,England,True,True
+2015-10-10,Australia,Wales,15,6,2015 Rugby World Cup Pool match,Twickenham Stadium,London,England,True,True
+2015-10-11,France,Ireland,9,24,2015 Rugby World Cup Pool D,Millennium Stadium,Cardiff,Wales,True,True
+2015-10-17,South Africa,Wales,23,19,2015 Rugby World Cup Quarter-final,Twickenham Stadium,London,England,True,True
+2015-10-17,New Zealand,France,62,13,2015 Rugby World Cup Quarter-final,Millennium Stadium,Cardiff,Wales,True,True
+2015-10-18,Ireland,Argentina,20,43,2015 Rugby World Cup quarter-final,Millennium Stadium,Cardiff,Wales,True,True
+2015-10-18,Australia,Scotland,35,34,2015 Rugby World Cup Quarter-final,Twickenham Stadium,London,England,True,True
+2015-10-24,South Africa,New Zealand,18,20,2015 Rugby World Cup Semi-final,Twickenham Stadium,London,England,True,True
+2015-10-25,Argentina,Australia,15,29,2015 Rugby World Cup Semi-finals,Twickenham,London,England,True,True
+2015-10-30,South Africa,Argentina,24,13,2015 Rugby World Cup Bronze final,Olympic Stadium,London,England,True,True
+2015-10-31,New Zealand,Australia,34,17,2015 Rugby World Cup Final,Twickenham Stadium,London,England,True,True
+2016-02-06,France,Italy,23,21,2016 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2016-02-06,Scotland,England,9,15,2016 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2016-02-07,Ireland,Wales,16,16,2016 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2016-02-13,Wales,Scotland,27,23,2016 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2016-02-13,France,Ireland,10,9,2016 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2016-02-14,Italy,England,9,40,2016 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2016-02-26,Wales,France,19,10,2016 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2016-02-27,Italy,Scotland,20,36,2016 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2016-02-27,England,Ireland,21,10,2016 Six Nations Championship,Twickenham,London,England,False,False
+2016-03-12,Ireland,Italy,58,15,2016 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2016-03-12,England,Wales,25,21,2016 Six Nations Championship,Twickenham,London,England,False,False
+2016-03-13,Scotland,France,29,18,2016 Six Nations Championship,Murrayfield,Edinburgh,Scotland,False,False
+2016-03-19,Wales,Italy,67,14,2016 Six Nations,Millennium Stadium,Cardiff,Wales,False,False
+2016-03-19,France,England,21,31,2016 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2016-03-19,Ireland,Scotland,35,25,2016 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2016-05-29,England,Wales,27,13,2016 Summer International,Twickenham,London,England,False,False
+2016-06-11,Australia,England,28,39,2016 England tour of Australia,Lang Park,Brisbane,Australia,False,False
+2016-06-11,New Zealand,Wales,39,21,2016 Wales tour of New Zealand,Eden Park,Auckland,New Zealand,False,False
+2016-06-11,South Africa,Ireland,20,26,2016 Ireland rugby union tour of South Africa,Newlands,Cape Town,South Africa,False,False
+2016-06-11,Argentina,Italy,30,24,2016 mid year test,Estadio B.G Estanislao López,Santa Fe,Argentina,False,False
+2016-06-18,South Africa,Ireland,32,26,2016 Ireland rugby union tour of South Africa,Ellis Park,Johannesburg,South Africa,False,False
+2016-06-18,Australia,England,7,23,2016 England tour of Australia,Melbourne Rectangular Stadium,Melbourne,Australia,False,False
+2016-06-18,New Zealand,Wales,36,22,2016 Wales tour of New Zealand,Wellington Regional Stadium,Wellington,New Zealand,False,False
+2016-06-19,Argentina,France,30,19,2016 France tour of Argentina,Estadio Monumental José Fierro,Tucumán,Argentina,False,False
+2016-06-25,New Zealand,Wales,46,6,2016 Wales tour of New Zealand,Forsyth Barr Stadium,Dunedin,New Zealand,False,False
+2016-06-25,South Africa,Ireland,19,13,2016 Ireland rugby union tour of South Africa,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,False,False
+2016-06-25,Argentina,France,0,27,2016 France tour of Argentina,Estadio Monumental José Fierro,Tucumán,Argentina,False,False
+2016-06-25,Australia,England,40,44,2016 England tour of Australia,Sydney Football Stadium,Sydney,Australia,False,False
+2016-08-20,Australia,New Zealand,8,42,2016 Rugby Championship,Stadium Australia,Sydney,Australia,False,False
+2016-08-20,South Africa,Argentina,30,23,2016 Rugby Championship,Mbombela Stadium,Mbombela,South Africa,False,False
+2016-08-27,Argentina,South Africa,26,24,2016 Rugby Championship,Estadio Padre Ernesto Martearena,Salta,Argentina,False,False
+2016-08-27,New Zealand,Australia,29,9,2016 Rugby Championship,Wellington Regional Stadium,Wellington,New Zealand,False,False
+2016-09-10,New Zealand,Argentina,57,22,2016 Rugby Championship,Waikato Stadium,Hamilton,New Zealand,False,False
+2016-09-10,Australia,South Africa,23,17,2016 Rugby Championship,Lang Park,Brisbane,Australia,False,False
+2016-09-17,New Zealand,South Africa,41,13,2016 Rugby Championship,Rugby League Park,Christchurch,New Zealand,False,False
+2016-09-17,Australia,Argentina,36,20,2016 Rugby Championship,Perth Oval,Perth,Australia,False,False
+2016-10-01,Argentina,New Zealand,17,36,2016 Rugby Championship,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2016-10-01,South Africa,Australia,18,10,2016 Rugby Championship,Loftus Versfeld Stadium,Pretoria,South Africa,False,False
+2016-10-08,Argentina,Australia,21,33,2016 Rugby Championship,Twickenham,London,England,True,False
+2016-10-08,South Africa,New Zealand,15,57,2016 Rugby Championship,Kings Park Stadium,Durban,South Africa,False,False
+2016-10-22,New Zealand,Australia,37,10,2016 Autumn International,Eden Park,Auckland,New Zealand,False,False
+2016-11-05,Wales,Australia,8,32,2016 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2016-11-05,Ireland,New Zealand,40,29,2016 Autumn International,Soldier Field,Chicago,United States,True,False
+2016-11-12,Italy,New Zealand,10,68,2016 end-of-year internationals,Stadio Olimpico,Rome,Italy,False,False
+2016-11-12,Wales,Argentina,24,20,2016 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2016-11-12,Scotland,Australia,22,23,2016 Autumn International,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2016-11-12,England,South Africa,37,21,2016 Autumn International,Twickenham,London,England,False,False
+2016-11-19,Scotland,Argentina,19,16,2016 Autumn International,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2016-11-19,Italy,South Africa,20,18,2016 end-of-year test,Stadio Artemio Franchi,Florence,Italy,False,False
+2016-11-19,France,Australia,23,25,2016 Autumn International,Stade de France,Saint-Denis,France,False,False
+2016-11-19,Ireland,New Zealand,9,21,2016 Autumn International,Aviva Stadium,Dublin,Ireland,False,False
+2016-11-26,Wales,South Africa,27,13,2016 end-of-year test,Millennium Stadium,Cardiff,Wales,False,False
+2016-11-26,Ireland,Australia,27,24,2016 Autumn International,Lansdowne Road,Dublin,Ireland,False,False
+2016-11-26,France,New Zealand,19,24,2016 end-of year test,Stade de France,Saint-Denis,France,False,False
+2016-11-26,England,Argentina,27,14,2016 Autumn International,Twickenham,London,England,False,False
+2016-12-03,England,Australia,37,21,2016 Autumn International,Twickenham Stadium,London,England,False,False
+2017-02-04,Scotland,Ireland,27,22,2017 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2017-02-04,England,France,19,16,2017 Six Nations Championship,Twickenham,London,England,False,False
+2017-02-05,Italy,Wales,7,33,2017 Six Nations,Stadio Olimpico,Rome,Italy,False,False
+2017-02-11,Italy,Ireland,10,63,2017 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2017-02-11,Wales,England,16,21,2017 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2017-02-12,France,Scotland,22,16,2017 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2017-02-25,Ireland,France,19,9,2017 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2017-02-25,Scotland,Wales,29,13,2017 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2017-02-26,England,Italy,36,15,2017 Six Nations Championship,Twickenham,London,England,False,False
+2017-03-10,Wales,Ireland,22,9,2017 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2017-03-11,England,Scotland,61,21,2017 Six Nations Championship,Twickenham Stadium,London,England,False,False
+2017-03-11,Italy,France,18,40,2017 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2017-03-18,Scotland,Italy,29,0,2017 Six Nations Championship,Murrayfield,Edinburgh,Scotland,False,False
+2017-03-18,France,Wales,20,18,2017 Six Nations Championship,Stade de France,Paris,France,False,False
+2017-03-18,Ireland,England,13,9,2017 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2017-06-10,Argentina,England,34,38,2017 England tour of Argentina,Estadio Bicentenario,San Juan,Argentina,False,False
+2017-06-10,Italy,Scotland,13,34,2017 mid-year test,National Stadium,Singapore,Singapore,True,False
+2017-06-10,South Africa,France,37,14,2017 France rugby union tour of South Africa,Loftus Versfeld,Pretoria,South Africa,False,False
+2017-06-17,Argentina,England,25,35,2017 England tour of Argentina,Estadio Estanislao López,Santa Fe,Argentina,False,False
+2017-06-17,Australia,Scotland,19,24,2017 Summer International,Sydney Football Stadium,Sydney,Australia,False,False
+2017-06-17,South Africa,France,37,15,2017 France rugby union tour of South Africa,Kings Park,Durban,South Africa,False,False
+2017-06-24,South Africa,France,35,12,2017 France rugby union tour of South Africa,Ellis Park,Johannesburg,South Africa,False,False
+2017-06-24,Australia,Italy,40,27,2017 Summer International,Lang Park,Brisbane,Australia,False,False
+2017-08-19,South Africa,Argentina,37,15,2017 Rugby Championship,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,False,False
+2017-08-19,Australia,New Zealand,34,54,2017 Rugby Championship,Stadium Australia,Sydney,Australia,False,False
+2017-08-26,New Zealand,Australia,35,29,2017 Rugby Championship,Forsyth Barr Stadium,Dunedin,New Zealand,False,False
+2017-08-26,Argentina,South Africa,23,41,2017 Rugby Championship,Estadio Padre Ernesto Martearena,Salta,Argentina,False,False
+2017-09-09,New Zealand,Argentina,39,22,2017 Rugby Championship,Yarrow Stadium,New Plymouth,New Zealand,False,False
+2017-09-09,Australia,South Africa,23,23,2017 Rugby Championship,Perth Oval,Perth,Australia,False,False
+2017-09-16,Australia,Argentina,45,20,2017 Rugby Championship,Canberra Stadium,Canberra,Australia,False,False
+2017-09-16,New Zealand,South Africa,57,0,2017 Rugby Championship,North Harbour Stadium,Albany,New Zealand,False,False
+2017-09-30,South Africa,Australia,27,27,2017 Rugby Championship,Free State Stadium,Bloemfontein,South Africa,False,False
+2017-09-30,Argentina,New Zealand,10,36,2017 Rugby Championship,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2017-10-07,Argentina,Australia,20,37,2017 Rugby Championship,Estadio Malvinas Argentinas,Mendoza,Argentina,False,False
+2017-10-07,South Africa,New Zealand,24,25,2017 Rugby Championship,Newlands,Cape Town,South Africa,False,False
+2017-10-21,Australia,New Zealand,23,18,2017 Autumn International,Lang Park,Brisbane,Australia,False,False
+2017-11-11,Wales,Australia,21,29,2017 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2017-11-11,Ireland,South Africa,38,3,2017 end-of-year test,Aviva Stadium,Dublin,Ireland,False,False
+2017-11-11,England,Argentina,21,8,2017 Autumn International,Twickenham,London,England,False,False
+2017-11-11,France,New Zealand,18,38,2017 end-of year test,Stade de France,Saint-Denis,France,False,False
+2017-11-18,Scotland,New Zealand,17,22,2017 Autumn International,Murrayfield,Edinburgh,Scotland,False,False
+2017-11-18,Italy,Argentina,15,31,2017 end of year test,Stadio Artemio Franchi,Florence,Italy,False,False
+2017-11-18,France,South Africa,17,18,2017 end-of-year test,Stade de France,Saint-Denis,France,False,False
+2017-11-18,England,Australia,30,6,2017 Autumn International,Twickenham Stadium,London,England,False,False
+2017-11-25,Scotland,Australia,53,24,2017 Autumn International,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2017-11-25,Ireland,Argentina,28,19,2017 Autumn Internationals,Aviva Stadium,Dublin,Ireland,False,False
+2017-11-25,Wales,New Zealand,18,33,2017 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2017-11-25,Italy,South Africa,6,35,2017 end-of-year test,Stadio Euganeo,Padua,Italy,False,False
+2017-12-02,Wales,South Africa,24,22,2017 end-of-year test,Millennium Stadium,Cardiff,Wales,False,False
+2018-02-03,Wales,Scotland,34,7,2018 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2018-02-03,France,Ireland,13,15,2018 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2018-02-04,Italy,England,15,46,2018 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2018-02-10,England,Wales,12,6,2018 Six Nations Championship,Twickenham,London,England,False,False
+2018-02-10,Ireland,Italy,56,19,2018 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2018-02-11,Scotland,France,32,26,2018 Six Nations Championship,Murrayfield,Edinburgh,Scotland,False,False
+2018-02-23,France,Italy,34,17,2018 Six Nations Championship,Stade Vélodrome,Marseille,France,False,False
+2018-02-24,Ireland,Wales,37,27,2018 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2018-02-24,Scotland,England,25,13,2018 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2018-03-10,Ireland,Scotland,28,8,2018 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2018-03-10,France,England,22,16,2018 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2018-03-11,Wales,Italy,38,14,2018 Six Nations,Millennium Stadium,Cardiff,Wales,False,False
+2018-03-17,Italy,Scotland,27,29,2018 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2018-03-17,Wales,France,14,13,2018 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2018-03-17,England,Ireland,15,24,2018 Six Nations Championship,Twickenham,London,England,False,False
+2018-06-02,South Africa,Wales,20,22,2018 mid-year test,RFK Stadium,Washington,United States,True,False
+2018-06-09,New Zealand,France,52,11,2018 French tour to New Zealand,Eden Park,Auckland,New Zealand,False,False
+2018-06-09,Australia,Ireland,18,9,2018 Ireland tour of Australia,Lang Park,Brisbane,Australia,False,False
+2018-06-09,Argentina,Wales,10,23,2018 Wales tour of Argentina and North America,Estadio San Juan del Bicentenario,San Juan,Argentina,False,False
+2018-06-09,South Africa,England,42,39,2018 England rugby union tour of South Africa,Ellis Park,Johannesburg,South Africa,False,False
+2018-06-16,Australia,Ireland,21,26,2018 Ireland tour of Australia,Melbourne Rec. Stadium,Melbourne,Australia,False,False
+2018-06-16,New Zealand,France,26,13,2018 French tour to New Zealand,Westpac Stadium,Wellington,New Zealand,False,False
+2018-06-16,Argentina,Wales,12,30,2018 Wales tour of Argentina and North America,Estadio Centenario,Resistencia,Argentina,False,False
+2018-06-16,South Africa,England,23,12,2018 England rugby union tour of South Africa,Free State Stadium,Bloemfontein,South Africa,False,False
+2018-06-23,New Zealand,France,49,14,2018 French tour to New Zealand,Forsyth Barr Stadium,Dunedin,New Zealand,False,False
+2018-06-23,South Africa,England,10,25,2018 England rugby union tour of South Africa,Newlands,Cape Town,South Africa,False,False
+2018-06-23,Argentina,Scotland,15,44,2018 Summer International,Estadio Centenario,Resistencia,Argentina,False,False
+2018-06-23,Australia,Ireland,16,20,2018 Ireland tour of Australia,Stadium Australia,Sydney,Australia,False,False
+2018-08-18,South Africa,Argentina,34,21,2018 Rugby Championship,Kings Park Stadium,Durban,South Africa,False,False
+2018-08-18,Australia,New Zealand,13,38,2018 Rugby Championship,Stadium Australia,Sydney,Australia,False,False
+2018-08-25,New Zealand,Australia,40,12,2018 Rugby Championship,Eden Park,Auckland,New Zealand,False,False
+2018-08-25,Argentina,South Africa,32,19,2018 Rugby Championship,Malvinas Argentinas,Mendoza,Argentina,False,False
+2018-09-08,Australia,South Africa,23,18,2018 Rugby Championship,Lang Park,Brisbane,Australia,False,False
+2018-09-08,New Zealand,Argentina,46,24,2018 Rugby Championship,Trafalgar Park,Nelson,New Zealand,False,False
+2018-09-15,New Zealand,South Africa,34,36,2018 Rugby Championship,Westpac Stadium,Wellington,New Zealand,False,False
+2018-09-15,Australia,Argentina,19,23,2018 Rugby Championship,Robina Stadium,Gold Coast,Australia,False,False
+2018-09-29,Argentina,New Zealand,17,35,2018 Rugby Championship,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2018-09-29,South Africa,Australia,23,12,2018 Rugby Championship,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,False,False
+2018-10-06,Argentina,Australia,34,45,2018 Rugby Championship,Estadio Padre Ernesto Martearena,Salta,Argentina,False,False
+2018-10-06,South Africa,New Zealand,30,32,2018 Rugby Championship,Loftus Versfeld Stadium,Pretoria,South Africa,False,False
+2018-10-27,New Zealand,Australia,37,20,2018 Autumn International,Nissan Stadium,Yokohama,Japan,True,False
+2018-11-03,England,South Africa,12,11,2018 Autumn International,Twickenham,London,England,False,False
+2018-11-03,Ireland,Italy,54,7,2018 Autumn Internationals,Soldier Field,Chicago,United States,True,False
+2018-11-03,Wales,Scotland,21,10,2018 Autumn international,Millennium Stadium,Cardiff,Wales,False,False
+2018-11-10,Ireland,Argentina,28,17,2018 Autumn Internationals,Aviva Stadium,Dublin,Ireland,False,False
+2018-11-10,England,New Zealand,15,16,2018 Autumn International,Twickenham,London,England,False,False
+2018-11-10,France,South Africa,26,29,2018 end-of-year test,Stade de France,Saint-Denis,France,False,False
+2018-11-10,Wales,Australia,9,6,2018 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2018-11-17,France,Argentina,28,13,2018 Autumn International,Stade Pierre-Mauroy,Lille,France,False,False
+2018-11-17,Ireland,New Zealand,16,9,2018 Autumn International,Aviva Stadium,Dublin,Ireland,False,False
+2018-11-17,Scotland,South Africa,20,26,2018 Autumn International,Murrayfield,Edinburgh,Scotland,False,False
+2018-11-17,Italy,Australia,7,26,2018 Autumn International,Stadio Euganeo,Padova,Italy,False,False
+2018-11-24,Wales,South Africa,20,11,2018 end-of-year test,Millennium Stadium,Cardiff,Wales,False,False
+2018-11-24,Scotland,Argentina,14,9,2018 Autumn International,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2018-11-24,Italy,New Zealand,3,66,2018 end-of-year internationals,Stadio Olimpico,Rome,Italy,False,False
+2018-11-24,England,Australia,37,18,2018 Autumn International,Twickenham Stadium,London,England,False,False
+2019-02-01,France,Wales,19,24,2019 Six Nations Championship,Stade de France,Paris,France,False,False
+2019-02-02,Scotland,Italy,33,20,2019 Six Nations Championship,Murrayfield,Edinburgh,Scotland,False,False
+2019-02-02,Ireland,England,20,32,2019 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2019-02-09,Italy,Wales,15,26,2019 Six Nations,Stadio Olimpico,Rome,Italy,False,False
+2019-02-09,Scotland,Ireland,13,22,2019 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2019-02-10,England,France,44,8,2019 Six Nations Championship,Twickenham,London,England,False,False
+2019-02-23,France,Scotland,27,10,2019 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2019-02-23,Wales,England,21,13,2019 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2019-02-24,Italy,Ireland,16,26,2019 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2019-03-09,England,Italy,57,14,2019 Six Nations Championship,Twickenham,London,England,False,False
+2019-03-09,Scotland,Wales,11,18,2019 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2019-03-10,Ireland,France,26,14,2019 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2019-03-16,Italy,France,14,25,2019 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2019-03-16,Wales,Ireland,25,7,2019 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2019-03-16,England,Scotland,38,38,2019 Six Nations Championship,Twickenham Stadium,London,England,False,False
+2019-07-20,Argentina,New Zealand,16,20,2019 Rugby Championship,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2019-07-20,South Africa,Australia,35,17,2019 Rugby Championship,Ellis Park Stadium,Johannesburg,South Africa,False,False
+2019-07-27,Australia,Argentina,16,10,2019 Rugby Championship,Suncorp Stadium,Brisbane,Australia,False,False
+2019-07-27,New Zealand,South Africa,16,16,2019 Rugby Championship,Westpac Stadium,Wellington,New Zealand,False,False
+2019-08-10,Ireland,Italy,29,10,2019 Rugby World Cup warm-up tests,Aviva Stadium,Dublin,Ireland,False,False
+2019-08-10,Australia,New Zealand,47,26,2019 Rugby Championship,Perth Stadium,Perth,Australia,False,False
+2019-08-10,Argentina,South Africa,13,46,2019 Rugby Championship,Estadio Padre Ernesto Martearena,Salta,Argentina,False,False
+2019-08-11,England,Wales,33,19,2019 Rugby World Cup warm-up,Twickenham,London,England,False,False
+2019-08-17,France,Scotland,32,3,2019 Rugby World Cup warm-up,Allianz Riviera,Nice,France,False,False
+2019-08-17,Wales,England,13,6,2019 Rugby World Cup warm-up,Millennium Stadium,Cardiff,Wales,False,False
+2019-08-17,New Zealand,Australia,36,0,2019 Rugby World Cup warm-up match,Eden Park,Auckland,New Zealand,False,False
+2019-08-17,South Africa,Argentina,24,18,2019 Rugby World Cup warm-up match,Loftus Versfeld Stadium,Pretoria,South Africa,False,False
+2019-08-24,England,Ireland,57,15,2019 Rugby World Cup Warm-up,Twickenham,London,England,False,False
+2019-08-24,Scotland,France,17,14,2019 Rugby World Cup warm-up,Murrayfield,Edinburgh,Scotland,False,False
+2019-08-30,France,Italy,47,19,2019 Rugby World Cup warm-up match,Stade de France,Saint-Denis,France,False,False
+2019-08-31,Wales,Ireland,17,22,2019 Rugby World Cup warm-up tests,Millennium Stadium,Cardiff,Wales,False,False
+2019-09-06,England,Italy,37,0,2019 Rugby World Cup Warm-up,St James' Park,Newcastle upon Tyne,England,False,False
+2019-09-07,Ireland,Wales,19,10,2019 Rugby World Cup warm-up tests,Aviva Stadium,Dublin,Ireland,False,False
+2019-09-21,France,Argentina,23,21,2019 Rugby World Cup Pool match,Tokyo Stadium,Tokyo,Japan,True,True
+2019-09-21,New Zealand,South Africa,23,13,2019 Rugby World Cup Pool B,International Stadium Yokohama,Yokohama,Japan,True,True
+2019-09-22,Ireland,Scotland,27,3,2019 Rugby World Cup,International Stadium Yokohama,Yokohama,Japan,True,True
+2019-09-29,Australia,Wales,25,29,2019 Rugby World Cup Pool match,Tokyo Stadium,Tokyo,Japan,True,True
+2019-10-04,South Africa,Italy,49,3,2019 Rugby World Cup,Shizuoka Stadium Ecopa,Fukuroi,Japan,True,True
+2019-10-05,England,Argentina,39,10,2019 Rugby World Cup Pool match,Tokyo Stadium,Tokyo,Japan,True,True
+2019-10-19,New Zealand,Ireland,46,14,2019 Rugby World Cup Quarter-final,Tokyo Stadium,Tokyo,Japan,True,True
+2019-10-19,England,Australia,40,16,2019 Rugby World Cup Quarter-final,Ōita Stadium,Ōita,Japan,True,True
+2019-10-20,Wales,France,20,19,2019 Rugby World Cup Quarter-finals,Ōita Stadium,Ōita,Japan,True,True
+2019-10-26,England,New Zealand,19,7,2019 Rugby World Cup Semi-final,Nissan Stadium,Yokohama,Japan,True,True
+2019-10-27,Wales,South Africa,16,19,2019 Rugby World Cup Semi-final,International Stadium Yokohama,Yokohama,Japan,True,True
+2019-11-01,New Zealand,Wales,40,17,2019 Rugby World Cup Bronze Final,Tokyo Stadium,Tokyo,Japan,True,True
+2019-11-02,England,South Africa,12,32,2019 Rugby World Cup Final,International Stadium Yokohama,Yokohama,Japan,True,True
+2020-02-01,Ireland,Scotland,19,12,2020 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2020-02-01,Wales,Italy,42,0,2020 Six Nations,Millennium Stadium,Cardiff,Wales,False,False
+2020-02-02,France,England,24,17,2020 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2020-02-08,Scotland,England,6,13,2020 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2020-02-08,Ireland,Wales,24,14,2020 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2020-02-09,France,Italy,35,22,2020 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2020-02-22,Wales,France,23,27,2020 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2020-02-22,Italy,Scotland,0,17,2020 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2020-02-23,England,Ireland,24,12,2020 Six Nations Championship,Twickenham,London,England,False,False
+2020-03-07,England,Wales,33,30,2020 Six Nations Championship,Twickenham,London,England,False,False
+2020-03-08,Scotland,France,28,17,2020 Six Nations Championship,Murrayfield,Edinburgh,Scotland,False,False
+2020-10-11,New Zealand,Australia,16,16,2020 Autumn International,Wellington Regional Stadium,Wellington,New Zealand,False,False
+2020-10-18,New Zealand,Australia,27,7,2020 Autumn International,Eden Park,Auckland,New Zealand,False,False
+2020-10-24,Ireland,Italy,50,17,2020 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2020-10-24,France,Wales,38,21,2020 Autumn International,Stade de France,Paris,France,False,False
+2020-10-31,Wales,Scotland,10,14,2020 Six Nations Championship,Parc y Scarlets,Llanelli,Wales,False,False
+2020-10-31,France,Ireland,35,27,2020 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2020-10-31,Italy,England,5,34,2020 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2020-10-31,Australia,New Zealand,5,43,2020 Tri Nations Series,Stadium Australia,Sydney,Australia,False,False
+2020-11-07,Australia,New Zealand,24,22,2020 Tri Nations Series,Lang Park,Brisbane,Australia,False,False
+2020-11-13,Ireland,Wales,32,9,Autumn Nations Cup,Aviva Stadium,Dublin,Ireland,False,False
+2020-11-14,New Zealand,Argentina,15,25,2020 Tri Nations Series,Bankwest Stadium,Sydney,Australia,True,False
+2020-11-14,Italy,Scotland,17,28,Autumn Nations Cup,Stadio Artemio Franchi,Florence,Italy,False,False
+2020-11-21,England,Ireland,18,7,Autumn Nations Cup,Twickenham,London,England,False,False
+2020-11-21,Australia,Argentina,15,15,2020 Tri Nations Series,McDonald Jones Stadium,Newcastle,Australia,False,False
+2020-11-22,Scotland,France,15,22,Autumn Nations Cup,Murrayfield,Edinburgh,Scotland,False,False
+2020-11-28,Argentina,New Zealand,0,38,2020 Tri Nations Series,McDonald Jones stadium,Newcastle,Australia,True,False
+2020-11-28,France,Italy,36,5,Autumn Nations Cup,Stade de France,Saint-Denis,France,False,False
+2020-11-28,Wales,England,13,24,Autumn Nations Cup,Parc y Scarlets,Llanelli,Wales,False,False
+2020-12-05,Ireland,Scotland,31,16,Autumn Nations Cup,Aviva Stadium,Dublin,Ireland,False,False
+2020-12-05,Wales,Italy,38,18,Autumn Nations Cup,Parc y Scarlets,Llanelli,Wales,False,False
+2020-12-05,Australia,Argentina,16,16,2020 Tri Nations Series,Bankwest Stadium,Sydney,Australia,False,False
+2020-12-06,England,France,22,19,Autumn Nations Cup Final,Twickenham,London,England,False,False
+2021-02-06,Italy,France,10,50,2021 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2021-02-06,England,Scotland,6,11,2021 Six Nations Championship,Twickenham Stadium,London,England,False,False
+2021-02-07,Wales,Ireland,21,16,2021 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2021-02-13,Scotland,Wales,24,25,2021 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2021-02-13,England,Italy,41,18,2021 Six Nations Championship,Twickenham,London,England,False,False
+2021-02-14,Ireland,France,13,15,2021 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2021-02-27,Italy,Ireland,10,48,2021 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2021-02-27,Wales,England,40,24,2021 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2021-03-13,England,France,23,20,2021 Six Nations Championship,Twickenham,London,England,False,False
+2021-03-13,Italy,Wales,7,48,2021 Six Nations,Stadio Olimpico,Rome,Italy,False,False
+2021-03-14,Scotland,Ireland,24,27,2021 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2021-03-20,France,Wales,32,30,2021 Six Nations Championship,Stade de France,Paris,France,False,False
+2021-03-20,Ireland,England,32,18,2021 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2021-03-20,Scotland,Italy,52,10,2021 Six Nations Championship,Murrayfield,Edinburgh,Scotland,False,False
+2021-03-26,France,Scotland,23,27,2021 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2021-07-07,Australia,France,23,21,2021 France tour of Australia,Lang Park,Brisbane,Australia,False,False
+2021-07-10,Wales,Argentina,20,20,2021 Argentina tour of Europe,Millennium Stadium,Cardiff,Wales,False,False
+2021-07-13,Australia,France,26,28,2021 France tour of Australia,Melbourne Rectangular Stadium,Melbourne,Australia,False,False
+2021-07-17,Australia,France,33,30,2021 France tour of Australia,Lang Park,Brisbane,Australia,False,False
+2021-07-17,Wales,Argentina,33,11,2021 Argentina tour of Europe,Millennium Stadium,Cardiff,Wales,False,False
+2021-08-07,New Zealand,Australia,33,25,2021 Summer International,Eden Park,Auckland,New Zealand,False,False
+2021-08-14,New Zealand,Australia,57,22,2021 Rugby Championship,Eden Park,Auckland,New Zealand,False,False
+2021-08-14,South Africa,Argentina,32,12,2021 Rugby Championship,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,False,False
+2021-08-21,South Africa,Argentina,29,10,2021 Rugby Championship,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,False,False
+2021-09-05,Australia,New Zealand,21,38,2021 Rugby Championship,Perth Stadium,Perth,Australia,False,False
+2021-09-11,Argentina,New Zealand,0,39,2021 Rugby Championship,Cbus Super Stadium,Gold Coast,Australia,True,False
+2021-09-11,Australia,South Africa,28,26,2021 Rugby Championship,Robina Stadium,Gold Coast,Australia,False,False
+2021-09-18,Australia,South Africa,30,17,2021 Rugby Championship,Lang Park,Brisbane,Australia,False,False
+2021-09-18,New Zealand,Argentina,36,13,2021 Rugby Championship,Suncorp Stadium,Brisbane,Australia,True,False
+2021-09-25,New Zealand,South Africa,19,17,2021 Rugby Championship,North Queensland Stadium,Townsville,Australia,True,False
+2021-09-25,Australia,Argentina,27,8,2021 Rugby Championship,North Queensland Stadium,Townsville,Australia,False,False
+2021-10-02,New Zealand,South Africa,29,31,2021 Rugby Championship,Robina Stadium,Gold Coast,Australia,True,False
+2021-10-02,Australia,Argentina,32,17,2021 Rugby Championship,Robina Stadium,Gold Coast,Australia,False,False
+2021-10-30,Wales,New Zealand,16,54,2021 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2021-11-05,France,Argentina,29,20,2021 Autumn International,Stade de France,Saint-Denis,France,False,False
+2021-11-06,Italy,New Zealand,9,47,2021 end-of-year rugby union internationals,Stadio Olimpico,Rome,Italy,False,False
+2021-11-06,Wales,South Africa,18,23,2021 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2021-11-06,Scotland,Australia,15,13,2021 Autumn International,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2021-11-13,Italy,Argentina,16,37,2021 end of year test,Stadio Comunale di Monigo,Treviso,Italy,False,False
+2021-11-13,England,Australia,32,15,2021 Autumn International,Twickenham Stadium,London,England,False,False
+2021-11-13,Scotland,South Africa,15,30,2021 Autumn International,Murrayfield,Edinburgh,Scotland,False,False
+2021-11-13,Ireland,New Zealand,29,20,2021 Autumn International,Aviva Stadium,Dublin,Ireland,False,False
+2021-11-20,Wales,Australia,29,28,2021 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2021-11-20,England,South Africa,27,26,2021 Autumn International,Twickenham,London,England,False,False
+2021-11-20,France,New Zealand,40,25,2021 end-of year test,Stade de France,Saint-Denis,France,False,False
+2021-11-21,Ireland,Argentina,53,7,2021 Autumn Internationals,Aviva Stadium,Dublin,Ireland,False,False
+2022-02-05,Ireland,Wales,29,7,2022 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2022-02-05,Scotland,England,20,17,2022 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2022-02-07,France,Italy,37,10,2022 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2022-02-12,France,Ireland,30,24,2022 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2022-02-12,Wales,Scotland,20,17,2022 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2022-02-13,Italy,England,0,33,2022 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2022-02-26,Scotland,France,17,36,2022 Six Nations Championship,Murrayfield,Edinburgh,Scotland,False,False
+2022-02-26,England,Wales,23,19,2022 Six Nations Championship,Twickenham,London,England,False,False
+2022-02-28,Ireland,Italy,57,6,2022 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2022-03-11,Wales,France,9,13,2022 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2022-03-12,England,Ireland,15,32,2022 Six Nations Championship,Twickenham,London,England,False,False
+2022-03-12,Italy,Scotland,22,33,2022 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2022-03-19,Ireland,Scotland,26,5,2022 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2022-03-19,Wales,Italy,21,22,2022 Six Nations,Millennium Stadium,Cardiff,Wales,False,False
+2022-03-20,France,England,25,13,2022 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2022-07-02,Argentina,Scotland,26,18,2022 Scotland tour of Argentina,Estadio 23 de Agosto,San Salvador de Jujuy,Argentina,False,False
+2022-07-02,New Zealand,Ireland,42,19,2022 Ireland rugby union tour of New Zealand,Eden Park,Auckland,New Zealand,False,False
+2022-07-02,South Africa,Wales,32,29,2022 Wales tour of South Africa,Loftus Versfeld Stadium,Pretoria,South Africa,False,False
+2022-07-02,Australia,England,30,28,2022 England tour of Australia,Perth Stadium,Perth,Australia,False,False
+2022-07-09,South Africa,Wales,12,13,2022 Wales tour of South Africa,Free State Stadium,Bloemfontein,South Africa,False,False
+2022-07-09,Australia,England,17,25,2022 England tour of Australia,Lang Park,Brisbane,Australia,False,False
+2022-07-09,New Zealand,Ireland,12,23,2022 Ireland rugby union tour of New Zealand,Forsyth Barr Stadium,Dunedin,New Zealand,False,False
+2022-07-09,Argentina,Scotland,6,29,2022 Scotland tour of Argentina,Estadio Padre Ernesto Martearena,Salta,Argentina,False,False
+2022-07-16,Australia,England,17,21,2022 England tour of Australia,Sydney Cricket Ground,Sydney,Australia,False,False
+2022-07-16,New Zealand,Ireland,22,32,2022 Ireland rugby union tour of New Zealand,Sky Stadium,Wellington,New Zealand,False,False
+2022-07-16,South Africa,Wales,30,14,2022 Wales tour of South Africa,Cape Town Stadium,Cape Town,South Africa,False,False
+2022-07-16,Argentina,Scotland,34,31,2022 Scotland tour of Argentina,Estadio Madre de Ciudades,Santiago del Estero,Argentina,False,False
+2022-08-06,South Africa,New Zealand,26,10,2022 Rugby Championship,Mbombela Stadium,Mbombela,South Africa,False,False
+2022-08-06,Argentina,Australia,26,41,2022 Rugby Championship,Estadio Malvinas Argentinas,Mendoza,Argentina,False,False
+2022-08-13,South Africa,New Zealand,23,35,2022 Rugby Championship,Ellis Park,Johannesburg,South Africa,False,False
+2022-08-13,Argentina,Australia,48,17,2022 Rugby Championship,Estadio San Juan del Bicentenario,San Juan,Argentina,False,False
+2022-08-27,New Zealand,Argentina,18,25,2022 Rugby Championship,Rugby League Park,Christchurch,New Zealand,False,False
+2022-08-27,Australia,South Africa,25,17,2022 Rugby Championship,Adelaide Oval,Adelaide,Australia,False,False
+2022-09-03,Australia,South Africa,8,24,2022 Rugby Championship,Sydney Football Stadium,Sydney,Australia,False,False
+2022-09-03,New Zealand,Argentina,53,3,2022 Rugby Championship,Waikato Stadium,Hamilton,New Zealand,False,False
+2022-09-15,Australia,New Zealand,37,39,2022 Rugby Championship,Docklands Stadium,Melbourne,Australia,False,False
+2022-09-17,Argentina,South Africa,20,36,2022 Rugby Championship,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2022-09-24,New Zealand,Australia,40,14,2022 Rugby Championship,Eden Park,Auckland,New Zealand,False,False
+2022-09-24,South Africa,Argentina,38,21,2022 Rugby Championship,Kings Park Stadium,Durban,South Africa,False,False
+2022-10-29,Scotland,Australia,15,16,2022 Autumn International,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2022-11-05,Wales,New Zealand,23,55,2022 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2022-11-05,Ireland,South Africa,19,16,2022 end-of-year test,Aviva Stadium,Dublin,Ireland,False,False
+2022-11-05,France,Australia,30,29,2022 Autumn International,Stade de France,Saint-Denis,France,False,False
+2022-11-06,England,Argentina,29,30,2022 Autumn International,Twickenham,London,England,False,False
+2022-11-12,France,South Africa,30,26,2022 end-of-year test,Stade Vélodrome,Marseille,France,False,False
+2022-11-12,Italy,Australia,28,27,2022 Autumn International,Stadio Artemio Franchi,Florence,Italy,False,False
+2022-11-12,Wales,Argentina,20,13,2022 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2022-11-13,Scotland,New Zealand,23,31,2022 Autumn International,Murrayfield,Edinburgh,Scotland,False,False
+2022-11-19,Italy,South Africa,21,63,2022 end-of-year test,Stadio Luigi Ferraris,Genoa,Italy,False,False
+2022-11-19,Ireland,Australia,13,10,2022 Autumn International,Aviva Stadium,Dublin,Ireland,False,False
+2022-11-19,England,New Zealand,25,25,2022 Autumn International,Twickenham,London,England,False,False
+2022-11-26,England,South Africa,13,27,2022 Autumn International,Twickenham,London,England,False,False
+2022-11-26,Wales,Australia,34,39,2022 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
+2023-02-04,Wales,Ireland,10,34,2023 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2023-02-04,England,Scotland,23,29,2023 Six Nations Championship,Twickenham Stadium,London,England,False,False
+2023-02-05,Italy,France,24,29,2023 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2023-02-11,Ireland,France,32,19,2023 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2023-02-11,Scotland,Wales,35,7,2023 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2023-02-12,England,Italy,31,14,2023 Six Nations Championship,Twickenham Stadium,London,England,False,False
+2023-02-25,Italy,Ireland,20,34,2023 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2023-02-25,Wales,England,10,20,2023 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
+2023-02-26,France,Scotland,32,21,2023 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2023-03-11,Italy,Wales,17,29,2023 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
+2023-03-11,England,France,10,53,2023 Six Nations Championship,Twickenham Stadium,London,England,False,False
+2023-03-12,Scotland,Ireland,7,22,2023 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2023-03-18,Scotland,Italy,26,14,2023 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2023-03-18,France,Wales,41,28,2023 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
+2023-03-18,Ireland,England,29,16,2023 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
+2023-07-08,South Africa,Australia,43,12,2023 Rugby Championship,Loftus Versfeld Stadium,Pretoria,South Africa,False,False
+2023-07-08,Argentina,New Zealand,12,41,2023 Rugby Championship,Estadio Malvinas Argentinas,Mendoza,Argentina,False,False
+2023-07-15,New Zealand,South Africa,35,20,2023 Rugby Championship,Mount Smart Stadium,Auckland,New Zealand,False,False
+2023-07-15,Australia,Argentina,31,34,2023 Rugby Championship,CommBank Stadium,Sydney,Australia,False,False
+2023-07-29,Australia,New Zealand,7,38,2023 Rugby Championship,Melbourne Cricket Ground,Melbourne,Australia,False,False
+2023-07-29,South Africa,Argentina,22,21,2023 Rugby Championship,Ellis Park,Johannesburg,South Africa,False,False
+2023-08-05,New Zealand,Australia,23,20,2023 Rugby World Cup warm-up match,Forsyth Barr Stadium,Dunedin,New Zealand,False,False
+2023-08-05,Argentina,South Africa,13,24,2023 Rugby World Cup warm-up match,José Amalfitani,Buenos Aires,Argentina,False,False
+2023-08-05,Scotland,France,25,21,2023 Rugby World Cup warm-up match,Murrayfield Stadium,Edinburgh,Scotland,False,False
+2023-08-05,Wales,England,20,9,2023 Summer Nations Series,Millennium Stadium,Cardiff,Wales,False,False
+2023-08-05,Ireland,Italy,33,17,2023 Rugby World Cup warm-up match,Aviva Stadium,Dublin,Ireland,False,False
+2023-08-12,England,Wales,19,17,2023 Summer Nations Series,Twickenham,London,England,False,False
+2023-08-12,France,Scotland,30,27,2023 Rugby World Cup warm-up match,Stade Geoffroy-Guichard,Saint-Étienne,France,False,False
+2023-08-19,Wales,South Africa,16,52,2023 Rugby World Cup warm-up match,Millennium Stadium,Cardiff,Wales,False,False
+2023-08-19,Ireland,England,29,10,2023 Rugby World Cup warm-up match,Aviva Stadium,Dublin,Ireland,False,False
+2023-08-25,South Africa,New Zealand,35,7,2023 Rugby World Cup warm-up match,Twickenham Stadium,London,England,True,False
+2023-08-27,France,Australia,41,17,2023 Rugby World Cup warm-up match,Stade de France,Saint-Denis,France,False,False
+2023-09-08,France,New Zealand,27,13,2023 Rugby World Cup,Stade de France,Saint-Denis,France,False,True
+2023-09-09,England,Argentina,27,10,2023 Rugby World Cup,Stade Vélodrome,Marseille,France,True,True
+2023-09-10,South Africa,Scotland,18,3,2023 Rugby World Cup,Stade Vélodrome,Marseille,France,True,True
+2023-09-23,South Africa,Ireland,8,13,2023 Rugby World Cup,Stade de France,Saint-Denis,France,True,True
+2023-09-24,Wales,Australia,40,6,2023 Rugby World Cup,Parc Olympique,Lyon,France,True,True

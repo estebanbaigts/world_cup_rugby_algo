@@ -1,0 +1,82 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+/* App.css */
+
+/* Styles pour le conteneur principal */
+.component {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* 100% de la hauteur de la fenêtre */
+  width: 100vw; /* 100% de la largeur de la fenêtre */
+}
+
+/* Styles pour le conteneur des champs d'entrée des drapeaux */
+.input-flags-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+/* Styles pour le conteneur des champs d'entrée des drapeaux */
+.input-flags1,
+.input-flags2 {
+  margin-right: 10px; /* Espacement entre les conteneurs */
+}
+
+/* Styles pour le conteneur des champs d'entrée */
+.input-container {
+  display: flex;
+  margin-top: 10px; /* Espacement entre les conteneurs */
+}
+
+/* Styles pour les champs d'entrée */
+.input {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 200px; /* Largeur des champs d'entrée */
+  text-align: center;
+}
+

@@ -10,4 +10,4 @@ df['date'] = pd.to_datetime(df['date'])
 df = df[df['date'].dt.year >= 2013]
 
 # Enregistrer le nouveau DataFrame dans un nouveau fichier CSV
-df.to_csv('rugby_dataset_filtered.csv', index=False)
+df.to_csv('rugby_filtered.csv', index=False)
