@@ -1,3 +1,91 @@
+/* Styles pour le composant principal */
+.component {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+body {
+  background-image: url('rugby.jpg'); /* Remp  background-attachment: fixed; /* Fixe l'image de fond pour qu'elle reste en place lorsque vous faites défiler la page */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center; /* Centre l'image horizontalement et verticalement */
+  height: 100vh; /* Ajuste la hauteur de l'arrière-plan à la hauteur de la fenêtre (viewport height) */
+  margin: 0; /* Supprime la marge par défaut du body */
+  display: flex; /* Utilise un conteneur flex pour centrer le contenu vertical */
+  justify-content: center; /* Centre le contenu horizontalement */
+  align-items: center;
+}
+
+
+/* Styles pour le conteneur des champs d'entrée des drapeaux */
+.input-flags-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+/* Styles pour les conteneurs des champs d'entrée des drapeaux */
+.input-flags1,
+.input-flags2 {
+  margin-right: 10px;
+}
+
+/* Styles pour le conteneur des champs d'entrée */
+.input-container {
+  display: flex;
+  margin-top: 10px;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Styles pour les champs d'entrée et les listes déroulantes */
+.input,
+select {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 200px;
+  text-align: center;
+}
+
+/* Styles pour les boutons */
+.result-button {
+  padding: 10px;
+  margin-top: 50px;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  width: 200px;
+  text-align: center;
+  background-color: #61dafb;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.result-button:hover {
+  background-color: #0077b6;
+}
+
+.result-button:active {
+  background-color: #005f8d;
+}
+
+
+/* Styles pour les images des drapeaux */
+.input-flags1 img,
+.input-flags2 img {
+  max-width: 50px;
+  height: auto;
+}
+
+/* Styles existants */
 .App {
   text-align: center;
 }
@@ -36,47 +124,3 @@
     transform: rotate(360deg);
   }
 }
-
-
-/* App.css */
-
-/* Styles pour le conteneur principal */
-.component {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 100vh; /* 100% de la hauteur de la fenêtre */
-  width: 100vw; /* 100% de la largeur de la fenêtre */
-}
-
-/* Styles pour le conteneur des champs d'entrée des drapeaux */
-.input-flags-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 20px;
-}
-
-/* Styles pour le conteneur des champs d'entrée des drapeaux */
-.input-flags1,
-.input-flags2 {
-  margin-right: 10px; /* Espacement entre les conteneurs */
-}
-
-/* Styles pour le conteneur des champs d'entrée */
-.input-container {
-  display: flex;
-  margin-top: 10px; /* Espacement entre les conteneurs */
-}
-
-/* Styles pour les champs d'entrée */
-.input {
-  padding: 10px;
-  margin: 5px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  width: 200px; /* Largeur des champs d'entrée */
-  text-align: center;
-}
-
