@@ -1,0 +1,47 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+.content {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.square {
+  width: 300px;
+  height: 300px;
+  border: 1px solid #333;
+  background-color: red;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.label {
+  margin-bottom: 10px;
+}
+
+.inputs {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.result {
+  margin-top: 20px;
+}
