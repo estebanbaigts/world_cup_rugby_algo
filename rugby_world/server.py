@@ -4,8 +4,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import OneHotEncoder
 import requests
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 # Charger le fichier CSV
 df = pd.read_csv('../rugby_dataset_filtered.csv')
@@ -108,7 +110,6 @@ def predict():
     result = predict_result(home_team, away_team, city)
 
     return jsonify({'result': result})
-
 
 if __name__ == "__main__":
     app.run(debug=True)

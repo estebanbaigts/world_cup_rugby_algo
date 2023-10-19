@@ -4,6 +4,7 @@ import './style.css';
 function App() {
   const [homeTeam, setHomeTeam] = useState('');
   const [awayTeam, setAwayTeam] = useState('');
+  const [city, setCity] = useState('');
   const [result, setResult] = useState(null);
 
   const flagsPath = './flags';
@@ -35,9 +36,26 @@ function App() {
     'Wales',
   ];
 
-  const handleResultClick = () => {
-    const resultMessage = `${homeTeam} vs. ${awayTeam}`;
-    setResult(resultMessage);
+  const handlePredict = () => {
+    fetch('http://localhost:5000/predict', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        home_team: homeTeam,
+        away_team: awayTeam,
+        city: city,
+      }),
+    })
+      .then(response => response.json())
+      .then(data => {
+        setResult(data.result);
+      })
+      .catch(error => {
+        console.error('Error:', error);
+        setResult('Error: Could not retrieve data.');
+      });
   };
 
   return (
@@ -77,14 +95,20 @@ function App() {
                 </option>
               ))}
             </select>
+            <input
+              type="text"
+              className="input"
+              placeholder="City"
+              value={city}
+              onChange={(e) => setCity(e.target.value)}
+            />
           </div>
-          <input type="text" className="input" placeholder="Cities" />
-          <button className="result-button" onClick={handleResultClick}>
-            Result
+          <button className="result-button" onClick={handlePredict}>
+            Predict Winner
           </button>
           {result && (
             <div className="result">
-              <p>Result:</p>
+              <p>Winner:</p>
               <p>{result}</p>
             </div>
           )}

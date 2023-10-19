@@ -9,15 +9,15 @@
 }
 
 body {
-  background-image: url('rugby.jpg'); /* Remp  background-attachment: fixed; /* Fixe l'image de fond pour qu'elle reste en place lorsque vous faites défiler la page */
+  background: linear-gradient(to bottom, #292ba5e0, #4e6e6c); /* Remplacez les couleurs par celles de votre choix */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center center; /* Centre l'image horizontalement et verticalement */
-  height: 100vh; /* Ajuste la hauteur de l'arrière-plan à la hauteur de la fenêtre (viewport height) */
-  margin: 0; /* Supprime la marge par défaut du body */
-  display: flex; /* Utilise un conteneur flex pour centrer le contenu vertical */
-  justify-content: center; /* Centre le contenu horizontalement */
+  background-position: center center;
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
   align-items: center;
 }
 
@@ -123,4 +123,21 @@ select {
   to {
     transform: rotate(360deg);
   }
+}
+
+/* style.css */
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
 }
