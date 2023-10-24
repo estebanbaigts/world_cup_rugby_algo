@@ -8,6 +8,30 @@
   width: 100vw;
 }
 
+/* style pour la win */
+.result {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+/* Styles pour la barre de progression */
+.progress-bar {
+  position: absolute; /* Positionnement absolu pour la barre de progression */
+  width: 100%;
+  height: 10px;
+  background-color: #0077cc;
+}
+
+.progress {
+  width: 0; /* La largeur augmente pour montrer la progression */
+  height: 100%;
+  background-color: #0055aa;
+  transition: width 1s; /* Transition de la largeur de la barre de progression */
+}
+
+
 body {
   background: linear-gradient(to bottom, #292ba5e0, #4e6e6c); /* Remplacez les couleurs par celles de votre choix */
   background-size: cover;
@@ -125,19 +149,3 @@ select {
   }
 }
 
-/* style.css */
-
-.container {
-  max-width: 600px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-h1 {
-  font-size: 24px;
-  margin-bottom: 20px;
-}
-
-p {
-  font-size: 18px;
-}

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect} from 'react';
 import './style.css';
 
 function App() {
@@ -6,6 +6,8 @@ function App() {
   const [awayTeam, setAwayTeam] = useState('');
   const [city, setCity] = useState('');
   const [result, setResult] = useState(null);
+  const [isLoading, setIsLoading] = useState(false);
+  const [progress, setProgress] = useState(0);
 
   const flagsPath = './flags';
 
@@ -19,7 +21,6 @@ function App() {
 
   const flagImageStyle = {
     maxWidth: '300px',
-    margin: '130px',
     height: 'auto',
   };
 
@@ -37,6 +38,9 @@ function App() {
   ];
 
   const handlePredict = () => {
+    setIsLoading(true);
+    setProgress(0); // Réinitialisez la progression
+
     fetch('http://localhost:5000/predict', {
       method: 'POST',
       headers: {
@@ -51,12 +55,25 @@ function App() {
       .then(response => response.json())
       .then(data => {
         setResult(data.result);
+        setIsLoading(false); // Désactivez le chargement une fois que le résultat est reçu
       })
       .catch(error => {
         console.error('Error:', error);
         setResult('Error: Could not retrieve data.');
+        setIsLoading(false); // Désactivez le chargement en cas d'erreur
       });
   };
+
+  useEffect(() => {
+    if (isLoading) {
+      const interval = setInterval(() => {
+        if (progress < 100) {
+          setProgress(progress + 5);
+        }
+      }, 10); // Ajustez la vitesse de remplissage si nécessaire
+      return () => clearInterval(interval);
+    }
+  }, [isLoading, progress]);
 
   return (
     <div className="app-container">
@@ -103,10 +120,10 @@ function App() {
               onChange={(e) => setCity(e.target.value)}
             />
           </div>
-          <button className="result-button" onClick={handlePredict}>
-            Predict Winner
+          <button className="result-button" onClick={isLoading ? null : handlePredict} disabled={isLoading}>
+            {isLoading ? `${progress}%` : 'Predict Winner'}
           </button>
-          {result && (
+          {result && !isLoading && (
             <div className="result">
               <p>Winner:</p>
               <p>{result}</p>
